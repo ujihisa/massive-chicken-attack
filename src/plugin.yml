@@ -1,0 +1,8 @@
+name: massive-chicken-attack
+main: cljminecraft.ClojurePlugin
+version: 2.0.0
+website: http://ujihisa.blogspot.com
+author: Tatsuhiro Ujihisa
+description: chicken chicken chicken
+depend: [clj-minecraft]
+class-loader-of: clj-minecraft
